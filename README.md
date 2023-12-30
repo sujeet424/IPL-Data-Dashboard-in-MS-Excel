@@ -1,6 +1,9 @@
-#IPL-Data-Analysis
 
-Indian Premier League Dataset -
+# IPL-Data-Dashboard-in-MS-Excel
+
+
+Indian Premier Indian Premier League Dataset -league Dataset -
+
 
 About this Dataset:
 
@@ -15,3 +18,5 @@ Also, create some charts such as -
   4. Who wins the most player of the matches in the tournament?
   5. Who is the most valuable player of every season?
   6. Who is the orange cap and purple cap winner year after year?
+
+
